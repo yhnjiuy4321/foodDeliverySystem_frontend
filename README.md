@@ -18,7 +18,7 @@
 [外送平台](https://www.canva.com/design/DAGQaWHZh5g/ScodEI8mdYfi3JEf93RC6A/edit?utm_content=DAGQaWHZh5g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-## Project Setup
+## 環境設定與安裝
 
 ```sh
 npm install
